@@ -69,25 +69,13 @@ Follow these steps to upload your project to GitHub once you are done:
 
 ---
 
-### **Submission Guidelines**
-1. **Upload Your Code to GitHub**:
-   - Ensure your code is pushed to your GitHub repository before the deadline.
-   - Share the repository link with your instructor.
-
-2. **Do Not Upload `node_modules`**:
-   - Make sure the `node_modules` folder is excluded from your repository by adding it to your `.gitignore` file.
-
-3. **Include a README File**:
-   - Add a `README.md` file to your repository with a brief description of your project and any additional instructions for running the app.
-
----
-
 ### **On my side**
 To check what you have done. On my side, I will:
 1. Clone your repository.
 2. Install dependencies using `npm install`.
 3. Run the app locally using `npm run dev` to check out what you designed.
 4. Be sure to let me know once you are done.
+5. Share a link to your github repository. You can copy this from the browser tab.
 
 ---
 
