@@ -30,7 +30,15 @@ Welcome to the second task. Most of the instructions from the first tasks also a
     ![Webpage](task2.png)
 
    - The image that is on the webpage can be found here: https://static.vecteezy.com/system/resources/thumbnails/019/900/306/small_2x/happy-young-cute-illustration-face-profile-png.png
-
+   - You can use the following text for the
+     First paragraph:
+     ```
+      Morbi vel urna at neque molestie laoreet ut vitae nunc. Quisque hendrerit sem arcu, sit amet aliquet mauris venenatis iaculis. Suspendisse potenti. Curabitur commodo, mi quis elementum vulputate.
+     ```
+     Second paragraph:
+     ```
+     Ut faucibus mauris a neque faucibus, at commodo sapien elementum. Vivamus vulputate, magna non feugiat hendrerit, arcu nisl placerat ex, tristique malesuada enim arcu et nunc. Quisque egestas molestie nulla, non congue dui laoreet id. Integer mollis massa id diam molestie, nec tristique diam elementum. Vivamus lacinia nisl et magna interdum, vel feugiat sapien bibendum. In facilisis lacinia felis, ut hendrerit diam. Vestibulum dapibus, massa imperdiet convallis pellentesque, justo lorem aliquet quam, nec posuere sapien lectus a mauris.
+     ```
 
 ---
 ### **Good Luck!**
