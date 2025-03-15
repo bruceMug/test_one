@@ -29,7 +29,7 @@ Welcome to the second task. Most of the instructions from the first tasks also a
 
 4. **Webpage**:
     - Here is the image file
-    ![Webpage](webpage.png)
+    ![Webpage](task2.png)
 
 
 ### **Good Luck!**
