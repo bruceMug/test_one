@@ -1,4 +1,4 @@
-# **Frontend Task 2: Webpage**
+# **Task 2: UI/UX Webpage**
 Welcome to the second task. Most of the instructions from the first tasks also apply here.
 
 ## **Getting Started**
