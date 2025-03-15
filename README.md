@@ -1,8 +1,6 @@
 # **Frontend Task 2: Webpage**
 Welcome to the second task. Most of the instructions from the first tasks also apply here.
 
----
-
 ## **Getting Started**
 
 ### **Setting Up the Project**
@@ -34,13 +32,6 @@ Welcome to the second task. Most of the instructions from the first tasks also a
    - The image that is on the webpage can be found here: https://static.vecteezy.com/system/resources/thumbnails/019/900/306/small_2x/happy-young-cute-illustration-face-profile-png.png
 
 
+---
 ### **Good Luck!**
     Feel free to ask questions or get back to me if you encounter any issues. Happy coding! 🚀
----
-
-
-
-### **Good Luck!**
-Feel free to ask questions or get back to me if you encounter any issues. Happy coding! 🚀
-
----
