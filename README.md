@@ -28,8 +28,10 @@ Welcome to the second task. Most of the instructions from the first tasks also a
    - Open the provided local URL (e.g., `http://localhost:5173`) in your browser to view your app.
 
 4. **Webpage**:
-    - Here is the image file
+    - Here is the webpage
     ![Webpage](task2.png)
+
+   - The image that is on the webpage can be found here: https://static.vecteezy.com/system/resources/thumbnails/019/900/306/small_2x/happy-young-cute-illustration-face-profile-png.png
 
 
 ### **Good Luck!**
