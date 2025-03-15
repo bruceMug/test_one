@@ -33,11 +33,11 @@ Welcome to the second task. Most of the instructions from the first tasks also a
    - You can use the following text for the
      First paragraph:
      ```
-      Morbi vel urna at neque molestie laoreet ut vitae nunc. Quisque hendrerit sem arcu, sit amet aliquet mauris venenatis iaculis. Suspendisse potenti. Curabitur commodo, mi quis elementum vulputate.
+     I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.			
      ```
      Second paragraph:
      ```
-     Ut faucibus mauris a neque faucibus, at commodo sapien elementum. Vivamus vulputate, magna non feugiat hendrerit, arcu nisl placerat ex, tristique malesuada enim arcu et nunc. Quisque egestas molestie nulla, non congue dui laoreet id. Integer mollis massa id diam molestie, nec tristique diam elementum. Vivamus lacinia nisl et magna interdum, vel feugiat sapien bibendum. In facilisis lacinia felis, ut hendrerit diam. Vestibulum dapibus, massa imperdiet convallis pellentesque, justo lorem aliquet quam, nec posuere sapien lectus a mauris. Morbi vel urna at neque molestie laoreet ut vitae nunc. Quisque hendrerit sem arcu, sit amet aliquet mauris venenatis iaculis. Suspendisse potenti.
+     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
      ```
 
 ---
