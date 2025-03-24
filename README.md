@@ -1,5 +1,5 @@
-# **Task 2: Webpage**
-Welcome to the second task. Most of the instructions from the first tasks also apply here.
+# **Task 3: Webpage: Valencia**
+Welcome to the third task. Most of the instructions from the first tasks also apply here.
 
 ## **Getting Started**
 
@@ -27,17 +27,29 @@ Welcome to the second task. Most of the instructions from the first tasks also a
 
 4. **Webpage**:
     - Here is the webpage
-    ![Webpage](task2.png)
+    ![Webpage](task3.png)
 
-   - The image that is on the webpage can be found here: https://static.vecteezy.com/system/resources/thumbnails/019/900/306/small_2x/happy-young-cute-illustration-face-profile-png.png
+   - The background color for the page is "#fdeee3"
    - You can use the following text for the
-     First paragraph:
+     First card content:
      ```
-     I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.			
+     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-15-768x432.jpg
+     Title: Discover the magic of Marrakech through my lens
+     Subtitle: This first post showcases how image and gallery blocks can be inserted inside the content to enhance the story.
      ```
-     Second paragraph:
+     
+     Second card content:
      ```
-     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
+     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-01-768x432.jpg
+     Title: How to make perfect French macarons at home
+     Subtitle: Nunc id sapien finibus, faucibus odio vitae, aliquam eros. Vestibulum egestas, mauris a commodo lobortis urna elit.
+     ```
+     
+     Third card content
+     ```
+     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-03-768x432.jpg
+     Title: The benefits of wearing linen clothes in the summer
+     Subtitle: Nunc ultricies lacinia tincidunt, proin at justo aliquam, egestas. Duis quis massa placerat suscipit urna sed nisl sodales.
      ```
 
 ---
