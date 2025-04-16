@@ -26,10 +26,8 @@ Welcome to the fourth task. Most of the instructions from the first tasks also a
    - Open the provided local URL (e.g., `http://localhost:5173`) in your browser to view your app.
 
 4. **Webpage**:
-    - Here is the webpage. It's a single site. To be able to obtain that ordering, search about flex-wrap and wrap.
-    ![Webpage](Untitled.png)
-    ![Webpage](Untitled2.png)
-    ![Webpage](Untitled3.png)
+    - Here is the webpage. To be able to obtain that ordering, search about flex-wrap and wrap.
+    ![Webpage](Group45.png)
 
    - The background color for the page is "#f9f9f9"
    - The images on the page are listed below (ordered):
