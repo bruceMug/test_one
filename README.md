@@ -1,5 +1,5 @@
-# **Task 3: Webpage: Valencia**
-Welcome to the third task. Most of the instructions from the first tasks also apply here.
+# **Task 4: Portfolio: Designer**
+Welcome to the fourth task. Most of the instructions from the first tasks also apply here.
 
 ## **Getting Started**
 
@@ -26,32 +26,20 @@ Welcome to the third task. Most of the instructions from the first tasks also ap
    - Open the provided local URL (e.g., `http://localhost:5173`) in your browser to view your app.
 
 4. **Webpage**:
-    - Here is the webpage
-    ![Webpage](task3.png)
+    - Here is the webpage. It's a single site. To be able to obtain that ordering, search about flex-wrap and wrap.
+    ![Webpage](Untitled.png)
+    ![Webpage](Untitled2.png)
+    ![Webpage](Untitled3.png)
 
-   - The background color for the page is "#fdeee3"
-   - You can use the following text for the
-     First card content:
-     ```
-     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-15-768x432.jpg
-     Title: Discover the magic of Marrakech through my lens
-     Subtitle: This first post showcases how image and gallery blocks can be inserted inside the content to enhance the story.
-     ```
-     
-     Second card content:
-     ```
-     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-01-768x432.jpg
-     Title: How to make perfect French macarons at home
-     Subtitle: Nunc id sapien finibus, faucibus odio vitae, aliquam eros. Vestibulum egestas, mauris a commodo lobortis urna elit.
-     ```
-     
-     Third card content
-     ```
-     Image: https://demo.twentig.com/valencia/wp-content/uploads/sites/10/2021/03/blog-03-768x432.jpg
-     Title: The benefits of wearing linen clothes in the summer
-     Subtitle: Nunc ultricies lacinia tincidunt, proin at justo aliquam, egestas. Duis quis massa placerat suscipit urna sed nisl sodales.
-     ```
+   - The background color for the page is "#f9f9f9"
+   - The images on the page are listed below (ordered):
+     1. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-01-1024x576.png
+     2. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-01-1024x576.png
+     3. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/kaleidoscope-01-1024x576.png
+     4. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/lagom-01-768x432.png
+     5. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/national-library-01-768x432.png
+     6. https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/komorebi-01-768x432.png
+
 
 ---
-### **Good Luck!**
-    Feel free to ask questions or get back to me if you encounter any issues. Happy coding! 🚀
+    Happy coding! 🚀
