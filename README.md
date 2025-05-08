@@ -1,4 +1,4 @@
-# **Task 4: Portfolio: Designer**
+# **Task 5: Blog Page**
 Welcome to the fourth task. Most of the instructions from the first tasks also apply here.
 
 ## **Getting Started**
@@ -29,6 +29,7 @@ Welcome to the fourth task. Most of the instructions from the first tasks also a
     - Here is the webpage. Find it at
       https://task5-webpage.tiiny.site/
    - There is a purple banner at the bottom of the site. That isn't part of the task. Please ignore it.
+   - For the name at top and bottom, use your name if okay.
 
 
 ---
