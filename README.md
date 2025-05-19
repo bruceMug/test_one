@@ -1,4 +1,4 @@
-# **Task 6: Blog **
+# Task 6: Blog
 Welcome to the sixth task. Most of the instructions from the first tasks also apply here.
 
 
